@@ -1,4 +1,10 @@
-# Hi there 👋
+# Hi there 👋 I'm Kavindu Kokila
+
+<div width ="100%" align="center">
+<img alt ="gif" src ="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+</div>
+  
+  ###
 
 <div width="100%" display="flex" align="center">
 <img width="45%" src ="https://github-readme-stats.vercel.app/api?username=kavicastelo&theme=radical"/>
