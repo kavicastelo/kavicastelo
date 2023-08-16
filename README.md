@@ -11,6 +11,14 @@
 <img width="45%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kavicastelo&layout=compact"/>
 </div>
 
+## Activity On GitHub:
+
+<p align="center">
+  <a href="https://github.com/Thinkright20">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kavicastelo&theme=dark&hide_border=true&stroke=f53b3b"/>
+</a> 
+</p>
+
 <h3 align="center">Interested in</h3>
 
 <div width="100%" display="flex" align="center">
