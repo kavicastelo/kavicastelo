@@ -36,7 +36,7 @@
 <h3 align="center">Contacts</h3>
 
 <div width="100%" display="flex" align="center">
-<a href="mailto:kavindu.kokila.acc@gmail.com">
+<a href="mailto:kavindu.kokila.info@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
   <a href="https://stackoverflow.com/users/20531015/kavi-castelo">
