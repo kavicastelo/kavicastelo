@@ -55,3 +55,12 @@
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 </div>
+
+<div width="100%" display="flex" align="center">
+  <a href="https://github.com/kavicastelo" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=kavicastelo" alt="page views" />
+</a>
+<a href="https://github.com/kavicastelo?tab=followers" target="_blank">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/kavicastelo?color=green&logo=github">
+</a
+</div>
