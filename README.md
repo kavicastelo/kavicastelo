@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Kavindu+Kokila;I'm+a+web+developer;I'm+an+android+developer;I'm+a+cross-platform+developer;I'm+a+fullstack+developer" alt="Typing SVG" /></a>  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Kavindu+Kokila;I'm+a+web+developer;I'm+an+android+developer;I'm+a+cross-platform+developer;I'm+a+fullstack+developer" alt="Typing SVG" /></a>  
 </div>
 
 <div>
@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
+  <img src="https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
 </div>
 
 <h3 align="center">Databases I Frequently Used</h3>
