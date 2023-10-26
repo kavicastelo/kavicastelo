@@ -4,16 +4,14 @@
 
 <div>
   <p>Undergraduate in Bachelor of Science (Hons) degree focused in Computer and Software Engineering from Cardiff Metropolitan University. Self-motivated, innovative thinking and able to work with a team. Interested in web development and android development.</p>
-</div>
+  
+  Check out my [Portfolio](https://admin.flexi-art.com/)
 
-<div>
-  <p>
-    Check out my [Portfolio](https://admin.flexi-art.com/)
-  </p>
+  ### 
 </div>
 
 <div width ="100%" align="center">
-<img alt ="gif" src ="https://github.com/kavicastelo/web_assets/blob/main/EbDl.gif"
+  <img alt ="gif" src ="https://github.com/kavicastelo/web_assets/blob/main/EbDl.gif">
 </div>
   
   ###
@@ -103,3 +101,5 @@
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/kavicastelo?color=green&logo=github">
 </a
 </div>
+
+[Portfolio](https://admin.flexi-art.com/)
