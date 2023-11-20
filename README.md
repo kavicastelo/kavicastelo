@@ -17,7 +17,7 @@
   ###
 
 <div width="100%" display="flex" align="center">
-<img width="45%" src ="https://github-readme-stats.vercel.app/api?username=kavicastelo&theme=radical"/>
+<img width="45%" src ="https://github-readme-stats.vercel.app/api?username=kavicastelo&theme=radical&rank_icon=percentile&show_icons=true&show=reviews,prs_merged,prs_merged_percentage"/>
 <img width="45%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kavicastelo&theme=radical&layout=compact"/>
 </div>
 
