@@ -93,6 +93,18 @@
 </a>
 </div>
 
+<h3 align="center">Codeium</h3>
+<div width="100%" display="flex" align="center">
+  <a herf="https://codeium.com/profile/kavicastelo">
+    <img src="https://codeium.com/badges/user/kavicastelo/autocomplete">
+  </a>
+  <a herf="https://codeium.com/profile/kavicastelo">
+    <img src="https://img.shields.io/endpoint?url=https://codeium.com/badges/user/kavicastelo/streak">
+  </a>
+</div>
+
+#
+
 <div width="100%" display="flex" align="center">
   <a href="https://github.com/kavicastelo" target="_blank">
   <img src="https://komarev.com/ghpvc/?username=kavicastelo" alt="page views" />
