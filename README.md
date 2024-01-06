@@ -103,6 +103,13 @@
   </a>
 </div>
 
+<h3 align="center">Daily dev</h3>
+<div width="100%" display="flex" align="center">
+  <a herf="https://github.com/kavicastelo">
+    <img src="https://github.com/kavicastelo/kavicastelo/blob/main/devcard.svg" width="350" alt="Kavi Castelo's Dev Card"/>
+  </a>
+</div>
+
 #
 
 <div width="100%" display="flex" align="center">
