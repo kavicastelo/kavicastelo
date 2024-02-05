@@ -5,7 +5,9 @@
 <div>
   <p>Undergraduate in Bachelor of Science (Hons) degree focused in Computer and Software Engineering from Cardiff Metropolitan University. Self-motivated, innovative thinking and able to work with a team. Interested in web development and android development.</p>
   
-  Check out my [Portfolio](https://admin.flexi-art.com/)
+  Check out my [Portfolio](https://admin.flexi-art.com/) <br>
+  Check out my [Digital Garden](https://kavicastelo.netlify.app/) <br>
+  Check out my [Blog](https://blogs.flexi-art.com/)
 
   ### 
 </div>
