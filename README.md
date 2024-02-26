@@ -132,3 +132,14 @@
     <img alt="gist" src="https://github-readme-stats.vercel.app/api/gist?id=37666adaca03520feaf7a89b35e32a71&show_owner=true&theme=radical">
   </a>
 </div>
+
+</br>
+
+<p align="center">
+  <a href="https://github.com/kavicastelo">
+    <img width=800 src="https://github-profile-trophy.vercel.app/?username=kavicastelo&column=9&theme=radical&no-frame=true" style="display:block; margin:auto;"/>
+  </a>
+</p>
+
+<a href="https://github.com/kavicastelo"><img alt="Kavicastelo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kavicastelo&theme=react-dark&radius=8&area=true" />
+</a>
