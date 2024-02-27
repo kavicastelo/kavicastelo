@@ -155,6 +155,6 @@
 </p>
 
 ## Monthly Contribution Stats
-<a href="https://github.com/kavicastelo"><img alt="Kavicastelo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kavicastelo&theme=react-dark&radius=8&area=true" width="48%"/>
+<a href="https://github.com/kavicastelo"><img alt="Kavicastelo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kavicastelo&theme=react-dark&radius=8&area=true"/>
 </a>
 
