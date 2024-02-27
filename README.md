@@ -12,24 +12,31 @@
   ### 
 </div>
 
-<div width ="100%" align="center">
-  <img alt ="gif" src ="https://github.com/kavicastelo/web_assets/blob/main/EbDl.gif">
+<div width ="100%" display="flex" align="center">
+  <img width="48%" src ="https://github-readme-stats.vercel.app/api?username=kavicastelo&theme=radical&rank_icon=percentile&show_icons=true&show=reviews,prs_merged,prs_merged_percentage"/>
+  <img width="40%" align="right" alt ="gif" src ="https://github.com/kavicastelo/web_assets/blob/main/hacker-png.gif">
 </div>
   
   ###
 
-<div width="100%" display="flex" align="center">
-<img width="45%" src ="https://github-readme-stats.vercel.app/api?username=kavicastelo&theme=radical&rank_icon=percentile&show_icons=true&show=reviews,prs_merged,prs_merged_percentage"/>
-<img width="45%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kavicastelo&theme=radical&layout=compact"/>
+<h2 align="center">Activity on Github</h2>
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=kavicastelo&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/> </p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavicastelo&theme=radical"/> </p>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavicastelo&theme=radical&layout=donut"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kavicastelo&theme=radical"/>
 </div>
 
-## Activity On GitHub:
 
-<p align="center">
-  <a href="https://github.com/kavicastelo">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kavicastelo&theme=dark&hide_border=true&stroke=f53b3b"/>
-</a> 
-</p>
+[//]: # (<p align="center"> )
+
+[//]: # ()
+[//]: # ([![kavicastelo's github activity graph]&#40;https://activity-graph.herokuapp.com/graph?username=kavicastelo&theme=gotham&#41;]&#40;https://github.com/kavicastelo/github-readme-activity-graph&theme=github&#41;)
+
+[//]: # ()
+[//]: # (</p>)
 
 <h3 align="center">Languages I Know</h3>
 
@@ -123,6 +130,12 @@
 </a
 </div>
 
+## Profile Repo's Stat
+![repo size](https://img.shields.io/github/repo-size/kavicastelo/kavicastelo?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
+![GitHub forks](https://img.shields.io/github/forks/kavicastelo/kavicastelo?&labelColor=black&color=0fb9b1&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/kavicastelo/kavicastelo?&labelColor=black&color=f7b731&style=for-the-badge)
+![GitHub LastCommit](https://img.shields.io/github/last-commit/kavicastelo/kavicastelo?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
+
 ## Gists may you important
 <div width="100%" display="flex" align="center">
   <a href="https://gist.github.com/kavicastelo/8faf5592f24a45ff1151378f0fb40309/">
@@ -141,5 +154,7 @@
   </a>
 </p>
 
-<a href="https://github.com/kavicastelo"><img alt="Kavicastelo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kavicastelo&theme=react-dark&radius=8&area=true" />
+## Monthly Contribution Stats
+<a href="https://github.com/kavicastelo"><img alt="Kavicastelo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kavicastelo&theme=react-dark&radius=8&area=true" width="48%"/>
 </a>
+
