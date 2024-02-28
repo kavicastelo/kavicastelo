@@ -41,45 +41,45 @@
 <h3 align="center">Languages I Know</h3>
 
 <div width="100%" display="flex" align="center">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+<code><img src="https://img.icons8.com/color/48/javascript--v1.png"/></code>
+<code><img src="https://img.icons8.com/fluency/48/typescript--v2.png"/></code>
+<code><img src="https://img.icons8.com/color/48/css3.png"/></code>
+<code><img src="https://img.icons8.com/color/48/html-5--v1.png"/></code>
+<code><img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"/></code>
+<code><img src="https://img.icons8.com/fluency/48/python.png"></code>
+<code><img src="https://img.icons8.com/color/48/kotlin.png"></code>
+<code><img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/></code>
+<code><img src="https://img.icons8.com/color/48/c-sharp-logo-2.png"/></code>
+<code><img src="https://img.icons8.com/color/48/c-programming.png"/></code>
+<code><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-r-project-a-free-software-environment-for-statistical-computing-and-graphics-logo-shadow-tal-revivo.png"></code>
+<code><img src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-PHP-programming-and-development-those-icons-flat-those-icons.png"></code>
 </div>
 
 <h3 align="center">Mostly Used Frameworks, Platforms and Libraries</h3>
 <div width="100%" display="flex" align="center">
-  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white">
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
+  <code><img src="https://img.icons8.com/color/48/angularjs.png"></code>
+  <code><img src="https://img.icons8.com/color/48/bootstrap--v2.png"></code>
+  <code><img width="48" src="https://asset.brandfetch.io/idFdo8ulhr/idg4l58CuH.svg"></code>
+  <code><img src="https://img.icons8.com/offices/40/express-js.png"></code>
+  <code><img src="https://img.icons8.com/color/48/java-web-token.png"></code>
+  <code><img src="https://img.icons8.com/color/48/npm.png"></code>
+  <code><img src="https://img.icons8.com/fluency/48/node-js.png"></code>
+  <code><img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/external-nodemon-process-will-automatically-restart-when-your-code-changes-logo-green-tal-revivo.png"></code>
+  <code><img src="https://img.icons8.com/office/40/react.png"></code>
+  <code><img src="https://img.icons8.com/color/48/react-native.png"></code>
+  <code><img src="https://img.icons8.com/external-creatype-filed-outline-colourcreatype/48/external-document-file-extension-web-format-file-creatype-filed-outline-colourcreatype-8.png"></code>
 </div>
 
 <h3 align="center">Databases I Frequently Used</h3>
 <div width="100%" display="flex" align="center">
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white">
+<code><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png"></code>
+<code><img src="https://img.icons8.com/color/48/mysql-logo.png"></code>
+<code><img width="48" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"></code>
+<code><img src="https://img.icons8.com/color/48/microsoft-sql-server.png"></code>
+<code><img src="https://img.icons8.com/plasticine/48/oracle-pl-sql--v3.png"></code>
+<code><img src="https://img.icons8.com/color/48/firebase.png"></code>
+<code><img src="https://img.icons8.com/fluency/48/maria-db.png"></code>
+<code><img src="https://img.icons8.com/dusk/48/ac-dc-converter.png"></code>
 </div>
 
 <h3 align="center">Contacts</h3>
