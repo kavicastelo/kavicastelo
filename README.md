@@ -4,10 +4,11 @@
 
 <div>
   <p>Undergraduate in Bachelor of Science (Hons) degree focused in Computer and Software Engineering from Cardiff Metropolitan University. Self-motivated, innovative thinking and able to work with a team. Interested in web development and android development.</p>
+
   
-  Check out my [Portfolio](https://admin.flexi-art.com/) <br>
-  Check out my [Digital Garden](https://kavicastelo.netlify.app/) <br>
-  Check out my [Blog](https://blogs.flexi-art.com/)
+  <i>Check out my [Portfolio](https://admin.flexi-art.com/)</i> <br>
+  <i>Check out my [Digital Garden](https://kavicastelo.netlify.app/)</i> <br>
+  <i>Check out my [Blog](https://blogs.flexi-art.com/)
 
   ### 
 </div>
@@ -38,7 +39,24 @@
 [//]: # ()
 [//]: # (</p>)
 
-<h3 align="center">Languages I Know</h3>
+<br>
+
+<h3 align="center">My Current Tech Stack 👾</h3>
+<div width="100%" display="flex" align="center">
+  <code><img src="https://img.icons8.com/color/48/angularjs.png"></code>
+  <code><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png"></code>
+  <code><img src="https://img.icons8.com/color/48/spring-logo.png"></code>
+  <code><img src="https://img.icons8.com/offices/40/express-js.png"></code>
+  <code><img src="https://img.icons8.com/fluency/48/node-js.png"></code>
+</div>
+
+<br>
+<br>
+
+<details align="center">
+  <summary>🧑 More about me</summary>
+
+  <h3 align="center">Languages I Know</h3>
 
 <div width="100%" display="flex" align="center">
 <code><img src="https://img.icons8.com/color/48/javascript--v1.png"/></code>
@@ -56,9 +74,11 @@
 </div>
 
 <h3 align="center">Mostly Used Frameworks, Platforms and Libraries</h3>
+
 <div width="100%" display="flex" align="center">
   <code><img src="https://img.icons8.com/color/48/angularjs.png"></code>
   <code><img src="https://img.icons8.com/color/48/bootstrap--v2.png"></code>
+  <code><img src="https://img.icons8.com/color/48/spring-logo.png"></code>
   <code><img width="48" src="https://asset.brandfetch.io/idFdo8ulhr/idg4l58CuH.svg"></code>
   <code><img src="https://img.icons8.com/offices/40/express-js.png"></code>
   <code><img src="https://img.icons8.com/color/48/java-web-token.png"></code>
@@ -71,6 +91,7 @@
 </div>
 
 <h3 align="center">Databases I Frequently Used</h3>
+
 <div width="100%" display="flex" align="center">
 <code><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png"></code>
 <code><img src="https://img.icons8.com/color/48/mysql-logo.png"></code>
@@ -81,24 +102,28 @@
 <code><img src="https://img.icons8.com/fluency/48/maria-db.png"></code>
 <code><img src="https://img.icons8.com/dusk/48/ac-dc-converter.png"></code>
 </div>
+</details>
+
+<br>
+<br>
 
 <h3 align="center">Contacts</h3>
 
 <div width="100%" display="flex" align="center">
 <a href="mailto:kavindu.kokila.info@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.icons8.com/color/48/gmail-new.png"/>
 </a>
   <a href="https://stackoverflow.com/users/20531015/kavi-castelo">
-<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+<img src="https://img.icons8.com/color-glass/48/stackoverflow.png"/>
 </a>
   <a href=" https://linkedin.com/in/kavindu-kokila-0b0636290">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.icons8.com/fluency/48/linkedin.png"/>
 </a>
   <a href="https://twitter.com/kavicastelo?fbclid=IwAR1nDnX7rtkOGJFfx2NgQqvcj4Zs6Xa3IzAaf-3HD4P-be_LrwyEPahmtzM">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+<img src="https://img.icons8.com/color/48/twitterx--v1.png"/>
 </a>
   <a href="https://www.facebook.com/kavi.castelo">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<img src="https://img.icons8.com/color/48/facebook-new.png"/>
 </a>
 </div>
 
