@@ -183,6 +183,12 @@
 <a href="https://github.com/kavicastelo"><img alt="Kavicastelo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kavicastelo&theme=react-dark&radius=8&area=true"/>
 </a>
 
+<details>
+  <summary>3D Contribution Matrix🌌 (last year)</summary>
+  
+  ![profile 3d](https://github.com/kavicastelo/kavicastelo/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+</details>
+
 <div align="right">
   
   ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/DevCard.yml)
