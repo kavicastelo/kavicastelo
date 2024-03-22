@@ -127,22 +127,9 @@
 </a>
 </div>
 
-<h3 align="center">Codeium</h3>
-<div width="100%" display="flex" align="center">
-  <a herf="https://codeium.com/profile/kavicastelo">
-    <img src="https://codeium.com/badges/user/kavicastelo/autocomplete">
-  </a>
-  <a herf="https://codeium.com/profile/kavicastelo">
-    <img src="https://img.shields.io/endpoint?url=https://codeium.com/badges/user/kavicastelo/streak">
-  </a>
-</div>
+## 3D Contribution Matrix🌌 (last year)
 
-<h3 align="center">Daily dev</h3>
-<div width="100%" display="flex" align="center">
-  <a herf="https://github.com/kavicastelo">
-    <img src="./devcard.png" width="80%" alt="Kavi Castelo's Dev Card"/>
-  </a>
-</div>
+![profile 3d](https://github.com/kavicastelo/kavicastelo/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 #
 
@@ -184,13 +171,32 @@
 </a>
 
 <details>
-  <summary>3D Contribution Matrix🌌 (last year)</summary>
-  
-  ![profile 3d](https://github.com/kavicastelo/kavicastelo/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+  <summary>Activities on other dev platforms😉</summary>
+
+  <h3 align="center">Codeium</h3>
+<div width="100%" display="flex" align="center">
+  <a herf="https://codeium.com/profile/kavicastelo">
+    <img src="https://codeium.com/badges/user/kavicastelo/autocomplete">
+  </a>
+  <a herf="https://codeium.com/profile/kavicastelo">
+    <img src="https://img.shields.io/endpoint?url=https://codeium.com/badges/user/kavicastelo/streak">
+  </a>
+</div>
+
+<h3 align="center">Daily dev</h3>
+<div width="100%" display="flex" align="center">
+  <a herf="https://github.com/kavicastelo">
+    <img src="./devcard.png" width="80%" alt="Kavi Castelo's Dev Card"/>
+  </a>
+</div>
 </details>
 
+---
+
 <div align="right">
-  
-  ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/DevCard.yml)
+<p>Workflow status⚙</p>
+
+  ![3d-contrib Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/profile-3d.yml?label=3d-contributions)
+  ![Daily-dev Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/DevCard.yml?label=daily-dev)
   
 </div>
