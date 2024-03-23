@@ -26,8 +26,8 @@
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavicastelo&theme=radical"/> </p>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavicastelo&theme=radical&layout=donut"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kavicastelo&theme=radical"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kavicastelo&theme=radical"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kavicastelo&theme=radical&utcOffset=8"/>
 </div>
 
 
