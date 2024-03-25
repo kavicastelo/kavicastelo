@@ -127,7 +127,7 @@
 </a>
 </div>
 
-## 3D Contribution Matrix🌌 (latest)
+## 3D Contribution metrics🌌 (latest)
 
 ![profile 3d](https://github.com/kavicastelo/kavicastelo/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
