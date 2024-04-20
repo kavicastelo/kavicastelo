@@ -97,10 +97,10 @@
 <code><img src="https://img.icons8.com/color/48/mysql-logo.png"></code>
 <code><img width="48" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"></code>
 <code><img src="https://img.icons8.com/color/48/microsoft-sql-server.png"></code>
-<code><img src="https://img.icons8.com/plasticine/48/oracle-pl-sql--v3.png"></code>
+<code><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-shadow-tal-revivo.png"></code>
 <code><img src="https://img.icons8.com/color/48/firebase.png"></code>
 <code><img src="https://img.icons8.com/fluency/48/maria-db.png"></code>
-<code><img src="https://img.icons8.com/dusk/48/ac-dc-converter.png"></code>
+<code><img src="https://img.icons8.com/color/48/amazon.png"></code>
 </div>
 </details>
 
