@@ -25,5 +25,6 @@ jobs:
             polyglot, contributor, reviewer, inspirer, gister, sponsor, 
             deployer, member, maintainer, developer, influencer, chatter,
             forker, scripter, packager, explorer, infographile, manager
+          plugin_followup: yes
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
