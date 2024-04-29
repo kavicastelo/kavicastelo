@@ -52,6 +52,12 @@
 
 <br>
 <br>
+<details align="center">
+  <summary>🦑 Github Metrics 🌌</summary>
+  <img src="https://github.com/kavicastelo/kavicastelo/blob/main/metrics.plugin.achievements.compact.svg" alt="metrics">
+</details>
+
+<br>
 
 <details align="center">
   <summary>🧑 More about me</summary>
@@ -197,6 +203,7 @@
 <p>Workflow status⚙</p>
 
   ![3d-contrib Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/profile-3d.yml?label=3d-contributions)
+  ![Github Metrics](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/metrics.yml?label=github-metrics)
   ![Daily-dev Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/DevCard.yml?label=daily-dev)
   
 </div>
