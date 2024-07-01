@@ -1,4 +1,4 @@
-name: Metrics
+name: LangUse
 on:
   # Schedule daily updates
   schedule: [{cron: "0 18 * * *"}]
@@ -23,5 +23,5 @@ jobs:
             gnuplot, plsql, nsis
           plugin_languages_indepth: yes
           plugin_languages_details: lines, percentage
-          plugin_languages_limit: 20
-          plugin_languages_analysis_timeout: 15
+          plugin_languages_limit: 30
+          plugin_languages_analysis_timeout: 30
