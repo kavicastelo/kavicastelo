@@ -55,6 +55,7 @@
 <details align="center">
   <summary>🦑 Github Metrics 🌌</summary>
   <img src="https://github.com/kavicastelo/kavicastelo/blob/main/metrics.plugin.achievements.compact.svg" alt="metrics">
+  <img src="https://github.com/kavicastelo/kavicastelo/blob/main/metrics.plugin.languages.indepth.svg" alt="language-analysis" width="70%">
 </details>
 
 <br>
@@ -204,6 +205,7 @@
 
   ![3d-contrib Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/profile-3d.yml?label=3d-contributions)
   ![Github Metrics](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/metrics.yml?label=github-metrics)
+  ![Github Languages](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/langUse.yml?label=github-language-use)
   ![Daily-dev Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/DevCard.yml?label=daily-dev)
   
 </div>
