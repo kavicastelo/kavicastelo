@@ -3,12 +3,12 @@
 </div>
 
 <div>
-  <p>Undergraduate in Bachelor of Science (Hons) degree focused in Computer and Software Engineering from Cardiff Metropolitan University. Self-motivated, innovative thinking and able to work with a team. Interested in web development and android development.</p>
+  <p>Graduated in Bachelor of Science (Hons) degree focused in Computer and Software Engineering from Cardiff Metropolitan University. Self-motivated, innovative thinking and able to work with a team. I love to work on MEAN Stack development and am also interested in the Springboot framework. I know about React, React Native, and ASP.net but am not interested in them much. Additionally, I have experience with Java mobile development and am quite interested in mobile development. Mostly I use Mongo as the database in my projects and also I know SQL, Postgres, and Firebase.</p>
 
   
-  <i>Check out my [Portfolio](https://admin.flexi-art.com/)</i> <br>
+  <i>Check out my [Portfolio](https://kavindukokila.netlify.app/)</i> <br>
   <i>Check out my [Digital Garden](https://kavicastelo.netlify.app/)</i> <br>
-  <i>Check out my [Blog](https://blogs.flexi-art.com/)
+  <i>Check out my [Blog](https://kavicastelo.blogspot.com/)
 
   ### 
 </div>
@@ -51,6 +51,13 @@
 </div>
 
 <br>
+<br>
+<details align="center">
+  <summary>🦑 Github Metrics 🌌</summary>
+  <img src="https://github.com/kavicastelo/kavicastelo/blob/main/metrics.plugin.achievements.compact.svg" alt="metrics">
+  <img src="https://github.com/kavicastelo/kavicastelo/blob/main/metrics.plugin.languages.indepth.svg" alt="language-analysis" width="70%">
+</details>
+
 <br>
 
 <details align="center">
@@ -197,6 +204,8 @@
 <p>Workflow status⚙</p>
 
   ![3d-contrib Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/profile-3d.yml?label=3d-contributions)
+  ![Github Metrics](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/metrics.yml?label=github-metrics)
+  ![Github Languages](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/langUse.yml?label=github-language-use)
   ![Daily-dev Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/DevCard.yml?label=daily-dev)
   
 </div>
