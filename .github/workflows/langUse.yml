@@ -18,6 +18,9 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
+          plugin_languages_ignored: >-
+            tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
+            gnuplot, yacc, nsis, plsql
           plugin_languages_indepth: yes
           plugin_languages_details: lines
           plugin_languages_limit: 12
