@@ -142,11 +142,17 @@
 
 <div width="100%" display="flex" align="center">
   <a href="https://github.com/kavicastelo" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=kavicastelo" alt="page views" />
-</a>
-<a href="https://github.com/kavicastelo?tab=followers" target="_blank">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/kavicastelo?color=green&logo=github">
-</a
+    <img src="https://komarev.com/ghpvc/?username=kavicastelo" alt="page views" />
+  </a>
+  <a href="https://github.com/kavicastelo" target="_blank">
+    <img src="https://img.shields.io/github/stars/kavicastelo?style=flat&logo=github&logoColor=ffffff&labelColor=575757&color=1183c3" alt="stars" />
+  </a>
+  <a href="https://github.com/kavicastelo?tab=followers" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/kavicastelo?style=flat&logo=github&logoColor=ffffff&labelColor=575757&color=1183c3">
+  </a>
+  <a href="https://github.com/kavicastelo?tab=followers" target="_blank">
+    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/kavicastelo/kavicastelo/main">
+  </a>
 </div>
 
 ## Profile Repo's Stat
