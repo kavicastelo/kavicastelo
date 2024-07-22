@@ -204,6 +204,12 @@
 </div>
 </details>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kavicastelo/kavicastelo/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/kavicastelo/kavicastelo/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 ---
 
 <div align="right">
@@ -213,5 +219,8 @@
   ![Github Metrics](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/metrics.yml?label=github-metrics)
   ![Github Languages](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/langUse.yml?label=github-language-use)
   ![Daily-dev Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/DevCard.yml?label=daily-dev)
+  ![Snake Contributions](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/snake.yml?label=snake_contributions)
   
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Thank%20you%20for%20visiting%20my%20profile👋&reversal=false&section=footer&fontSize=16&animation=twinkling&fontAlignY=80">
