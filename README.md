@@ -114,7 +114,7 @@
 <br>
 <br>
 
-<h3 align="center">Contacts</h3>
+<h3 align="center">Get in touch</h3>
 
 <div width="100%" display="flex" align="center">
 <a href="mailto:kavindu.kokila.info@gmail.com">
