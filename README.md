@@ -76,6 +76,7 @@
 <code><img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/></code>
 <code><img src="https://img.icons8.com/color/48/c-sharp-logo-2.png"/></code>
 <code><img src="https://img.icons8.com/color/48/c-programming.png"/></code>
+<code><img width="48" height="48" src="https://img.icons8.com/color/48/assembly.png"/></code>
 <code><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-r-project-a-free-software-environment-for-statistical-computing-and-graphics-logo-shadow-tal-revivo.png"></code>
 <code><img src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-PHP-programming-and-development-those-icons-flat-those-icons.png"></code>
 </div>
@@ -95,6 +96,8 @@
   <code><img src="https://img.icons8.com/office/40/react.png"></code>
   <code><img src="https://img.icons8.com/color/48/react-native.png"></code>
   <code><img src="https://img.icons8.com/external-creatype-filed-outline-colourcreatype/48/external-document-file-extension-web-format-file-creatype-filed-outline-colourcreatype-8.png"></code>
+  <code><img src="https://ratfactor.com/misc/mingw64/logo01.png" width="48"/></code>
+  <code><img src="https://www.nasm.us/images/nasm.png" width="48"/></code>
 </div>
 
 <h3 align="center">Databases I Frequently Used</h3>
@@ -166,8 +169,8 @@
   <a href="https://gist.github.com/kavicastelo/8faf5592f24a45ff1151378f0fb40309/">
     <img alt="gist" src="https://github-readme-stats.vercel.app/api/gist?id=8faf5592f24a45ff1151378f0fb40309&show_owner=true&theme=radical">
   </a>
-  <a href="https://gist.github.com/kavicastelo/37666adaca03520feaf7a89b35e32a71/">
-    <img alt="gist" src="https://github-readme-stats.vercel.app/api/gist?id=37666adaca03520feaf7a89b35e32a71&show_owner=true&theme=radical">
+  <a href="https://gist.github.com/kavicastelo/bd2d807c9f436b755fa81eafc6b9d1d4/">
+    <img alt="gist" src="https://github-readme-stats.vercel.app/api/gist?id=bd2d807c9f436b755fa81eafc6b9d1d4&show_owner=true&theme=radical">
   </a>
 </div>
 
