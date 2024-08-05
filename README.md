@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Kavindu+Kokila;I'm+a+web+developer;I'm+an+android+developer;I'm+a+cross-platform+developer;I'm+a+fullstack+developer" alt="Typing SVG" /></a>  
+<a href="https://github.com/kavicastelo"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Kavindu+Kokila;I'm+a+web+developer;I'm+an+android+developer;I'm+a+cross-platform+developer;I'm+a+fullstack+developer" alt="Typing SVG" /></a>  
 </div>
 
 <div>
@@ -79,6 +79,7 @@
 <code><img width="48" height="48" src="https://img.icons8.com/color/48/assembly.png"/></code>
 <code><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-r-project-a-free-software-environment-for-statistical-computing-and-graphics-logo-shadow-tal-revivo.png"></code>
 <code><img src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-PHP-programming-and-development-those-icons-flat-those-icons.png"></code>
+<code><img src="https://img.icons8.com/nolan/48/rust-programming-language--v1.png" alt="rust-programming-language--v1"/></code>
 </div>
 
 <h3 align="center">Mostly Used Frameworks, Platforms and Libraries</h3>
