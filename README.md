@@ -206,6 +206,17 @@
     <img src="./devcard.png" width="80%" alt="Kavi Castelo's Dev Card"/>
   </a>
 </div>
+
+<h3 align="center">Coders Rank</h3>
+<div width="100%" display="flex" align="center">
+  <a href="https://profile.codersrank.io/user/kavicastelo/">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kavicastelo&width=820&bg=4b505d" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kavicastelo&width=820&bg=fff" />
+    <img alt="codersrank" src="codersrank.svg" />
+  </picture>
+  </a>
+</div>
 </details>
 
 <picture>
