@@ -14,20 +14,46 @@
 </div>
 
 <div width ="100%" display="flex" align="center">
-  <img width="48%" src ="https://github-readme-stats.vercel.app/api?username=kavicastelo&theme=radical&rank_icon=percentile&show_icons=true&show=reviews,prs_merged,prs_merged_percentage"/>
-  <img width="40%" align="right" alt ="gif" src ="https://github.com/kavicastelo/web_assets/blob/main/hacker-png.gif">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kavicastelo&theme=radical&rank_icon=percentile&show_icons=true&show=prs_merged,reviews,prs_merged_percentage" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kavicastelo&rank_icon=percentile&show_icons=true&show=reviews,prs_merged,prs_merged_percentage" />
+  <img width="50%" alt="github-stats" src="github-stats.svg" />
+  </picture>
+
+  <img width="35%" align="right" alt ="gif" src ="https://github.com/kavicastelo/web_assets/blob/main/hacker-png.gif">
 </div>
   
   ###
 
 <h2 align="center">Activity on Github</h2>
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=kavicastelo&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/> </p>
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavicastelo&theme=radical"/> </p>
+<p align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=kavicastelo&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=kavicastelo&date_format=M%20j%5B%2C%20Y%5D" />
+  <img alt="streak" src="streak.svg" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavicastelo&theme=radical" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavicastelo" />
+  <img alt="profile-details" src="profile-details.svg" />
+  </picture>
+</p>
 
 <div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kavicastelo&theme=radical"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kavicastelo&theme=radical&utcOffset=8"/>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kavicastelo&theme=radical" />
+  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kavicastelo" />
+  <img alt="repos-per-language" src="repos-per-language.svg" />
+  </picture>
+
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kavicastelo&theme=radical&utcOffset=8" />
+  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kavicastelo&utcOffset=8" />
+  <img alt="productive-time" src="productive-time.svg" />
+  </picture>
 </div>
 
 
@@ -140,7 +166,11 @@
 
 ## 3D Contribution metrics🌌 (latest)
 
-![profile 3d](https://github.com/kavicastelo/kavicastelo/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kavicastelo/kavicastelo/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/kavicastelo/kavicastelo/blob/main/profile-3d-contrib/profile-south-season-animate.svg" />
+  <img alt="3d-contrib" src="3d-contrib.svg" />
+</picture>
 
 #
 
@@ -168,10 +198,18 @@
 ## Gists may you important
 <div width="100%" display="flex" align="center">
   <a href="https://gist.github.com/kavicastelo/8faf5592f24a45ff1151378f0fb40309/">
-    <img alt="gist" src="https://github-readme-stats.vercel.app/api/gist?id=8faf5592f24a45ff1151378f0fb40309&show_owner=true&theme=radical">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/gist?id=8faf5592f24a45ff1151378f0fb40309&show_owner=true&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/gist?id=8faf5592f24a45ff1151378f0fb40309&show_owner=true" />
+    <img alt="3d-contrib" src="3d-contrib.svg" />
+    </picture>
   </a>
   <a href="https://gist.github.com/kavicastelo/bd2d807c9f436b755fa81eafc6b9d1d4/">
-    <img alt="gist" src="https://github-readme-stats.vercel.app/api/gist?id=bd2d807c9f436b755fa81eafc6b9d1d4&show_owner=true&theme=radical">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/gist?id=bd2d807c9f436b755fa81eafc6b9d1d4&show_owner=true&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/gist?id=bd2d807c9f436b755fa81eafc6b9d1d4&show_owner=true" />
+    <img alt="3d-contrib" src="3d-contrib.svg" />
+    </picture>
   </a>
 </div>
 
@@ -179,12 +217,21 @@
 
 <p align="center">
   <a href="https://github.com/kavicastelo">
-    <img width=800 src="https://github-profile-trophy.vercel.app/?username=kavicastelo&column=9&theme=radical&no-frame=true" style="display:block; margin:auto;"/>
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=kavicastelo&column=9&theme=radical&no-frame=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=kavicastelo&column=9&no-frame=true" />
+    <img width=800 alt="troophy" src="troophy.svg"  style="display:block; margin:auto;"/>
+    </picture>
   </a>
 </p>
 
 ## Monthly Contribution Stats
-<a href="https://github.com/kavicastelo"><img alt="Kavicastelo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kavicastelo&theme=react-dark&radius=8&area=true"/>
+<a href="https://github.com/kavicastelo">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kavicastelo&theme=react-dark&radius=8&area=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kavicastelo&radius=8&area=true" />
+  <img alt="activity-graph" src="activity-graph.svg" />
+</picture>
 </a>
 
 <details>
@@ -211,8 +258,8 @@
 <div width="100%" display="flex" align="center">
   <a href="https://profile.codersrank.io/user/kavicastelo/">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kavicastelo&width=820&bg=4b505d" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kavicastelo&width=820&bg=fff" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kavicastelo&bg=4b505d" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kavicastelo&bg=fff" />
     <img alt="codersrank" src="codersrank.svg" />
   </picture>
   </a>
