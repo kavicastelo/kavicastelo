@@ -5,12 +5,13 @@
 <div>
   <p>Graduated in Bachelor of Science (Hons) degree focused in Computer and Software Engineering from Cardiff Metropolitan University. Self-motivated, innovative thinking and able to work with a team. I love to work on MEAN Stack development and am also interested in the Springboot framework. I know about React, React Native, and ASP.net but am not interested in them much. Additionally, I have experience with Java mobile development and am quite interested in mobile development. Mostly I use Mongo as the database in my projects and also I know SQL, Postgres, and Firebase.</p>
 
-  
-  <i>Check out my [Portfolio](https://kavindukokila.netlify.app/)</i> <br>
-  <i>Check out my [Digital Garden](https://kavicastelo.netlify.app/)</i> <br>
-  <i>Check out my [Blog](https://kavicastelo.blogspot.com/)
 
-  ### 
+<i>Check out my [Portfolio](https://kavindukokila.netlify.app/)</i> <br>
+<i>Check out my [Digital Garden](https://kavicastelo.netlify.app/)</i> <br>
+<i>Check out my [Blog](https://kavicastelo.blogspot.com/)
+
+###  
+
 </div>
 
 <div width ="100%" display="flex" align="center">
@@ -22,8 +23,8 @@
 
   <img width="35%" align="right" alt ="gif" src ="https://github.com/kavicastelo/web_assets/blob/main/hacker-png.gif">
 </div>
-  
-  ###
+
+###
 
 <h2 align="center">Activity on Github</h2>
 
@@ -60,9 +61,11 @@
 [//]: # (<p align="center"> )
 
 [//]: # ()
+
 [//]: # ([![kavicastelo's github activity graph]&#40;https://activity-graph.herokuapp.com/graph?username=kavicastelo&theme=gotham&#41;]&#40;https://github.com/kavicastelo/github-readme-activity-graph&theme=github&#41;)
 
 [//]: # ()
+
 [//]: # (</p>)
 
 <br>
@@ -89,7 +92,7 @@
 <details align="center">
   <summary>🧑 More about me</summary>
 
-  <h3 align="center">Languages I Know</h3>
+<h3 align="center">Languages I Know</h3>
 
 <div width="100%" display="flex" align="center">
 <code><img src="https://img.icons8.com/color/48/javascript--v1.png"/></code>
@@ -190,12 +193,14 @@
 </div>
 
 ## Profile Repo's Stat
+
 ![repo size](https://img.shields.io/github/repo-size/kavicastelo/kavicastelo?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
 ![GitHub forks](https://img.shields.io/github/forks/kavicastelo/kavicastelo?&labelColor=black&color=0fb9b1&style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/kavicastelo/kavicastelo?&labelColor=black&color=f7b731&style=for-the-badge)
 ![GitHub LastCommit](https://img.shields.io/github/last-commit/kavicastelo/kavicastelo?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
 
 ## Gists may you important
+
 <div width="100%" display="flex" align="center">
   <a href="https://gist.github.com/kavicastelo/8faf5592f24a45ff1151378f0fb40309/">
     <picture>
@@ -213,7 +218,7 @@
   </a>
 </div>
 
-</br>
+<br>
 
 <p align="center">
   <a href="https://github.com/kavicastelo">
@@ -226,6 +231,7 @@
 </p>
 
 ## Monthly Contribution Stats
+
 <a href="https://github.com/kavicastelo">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kavicastelo&theme=react-dark&radius=8&area=true" />
@@ -237,7 +243,7 @@
 <details>
   <summary>Activities on other dev platforms😉</summary>
 
-  <h3 align="center">Codeium</h3>
+<h3 align="center">Codeium</h3>
 <div width="100%" display="flex" align="center">
   <a herf="https://codeium.com/profile/kavicastelo">
     <img src="https://codeium.com/badges/user/kavicastelo/autocomplete">
@@ -277,12 +283,12 @@
 <div align="right">
 <p>Workflow status⚙</p>
 
-  ![3d-contrib Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/profile-3d.yml?label=3d-contributions)
-  ![Github Metrics](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/metrics.yml?label=github-metrics)
-  ![Github Languages](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/langUse.yml?label=github-language-use)
-  ![Daily-dev Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/DevCard.yml?label=daily-dev)
-  ![Snake Contributions](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/snake.yml?label=snake_contributions)
-  
+![3d-contrib Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/profile-3d.yml?label=3d-contributions)
+![Github Metrics](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/metrics.yml?label=github-metrics)
+![Github Languages](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/langUse.yml?label=github-language-use)
+![Daily-dev Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/DevCard.yml?label=daily-dev)
+![Snake Contributions](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/snake.yml?label=snake_contributions)
+
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Thank%20you%20for%20visiting%20my%20profile👋&reversal=false&section=footer&fontSize=16&animation=twinkling&fontAlignY=80">
