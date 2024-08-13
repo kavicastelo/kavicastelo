@@ -153,9 +153,6 @@
 <a href="mailto:kavindu.kokila.info@gmail.com">
 <img src="https://img.icons8.com/color/48/gmail-new.png"/>
 </a>
-  <a href="https://stackoverflow.com/users/20531015/kavi-castelo">
-<img src="https://img.icons8.com/color-glass/48/stackoverflow.png"/>
-</a>
   <a href=" https://linkedin.com/in/kavindu-kokila-0b0636290">
 <img src="https://img.icons8.com/fluency/48/linkedin.png"/>
 </a>
@@ -165,6 +162,39 @@
   <a href="https://www.facebook.com/kavi.castelo">
 <img src="https://img.icons8.com/color/48/facebook-new.png"/>
 </a>
+</div>
+
+<h3 align="center">Find me on communities</h3>
+
+<div width="100%" display="flex" align="center">
+  <a href="https://stackoverflow.com/users/20531015/kavi-castelo">
+<img src="https://img.icons8.com/color-glass/48/stackoverflow.png"/>
+</a>
+  <a href="https://gitlab.com/kavicastelo">
+<img src="https://img.icons8.com/color/48/gitlab.png"/>
+</a>
+  <a href="https://github.com/kavicastelo">
+<img src="https://img.icons8.com/color/48/github.png"/>
+</a>
+  <a href="https://www.kaggle.com/kavindukokila">
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png"/>
+</a>
+  <a href="https://stackexchange.com/users/26963768/kavi-castelo">
+<img src="https://img.icons8.com/color/48/stackexchange.png"/>
+</a>
+  <a href="https://codepen.io/kavicastelo">
+<img src="https://img.icons8.com/color/48/codepen.png"/>
+</a>
+  <a href="https://app.daily.dev/kavi_castelo">
+<img width="48" height="48" src="https://daily-now-res.cloudinary.com/image/upload/v1614088267/landing/Daily.dev_logo.png"/>
+</a>
+  <a href="https://profile.codersrank.io/user/kavicastelo">
+<img width="60" src="https://seeklogo.com/images/C/codersrank-logo-31F4344B52-seeklogo.com.png"/>
+</a>
+  <a href="https://codeium.com/profile/kavicastelo">
+<img width="42" height="42" src="https://exafunction.github.io/public/icons/codeium_logo.png"/>
+</a>
+
 </div>
 
 ## 3D Contribution metrics🌌 (latest)
