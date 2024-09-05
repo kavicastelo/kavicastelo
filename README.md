@@ -217,8 +217,11 @@
   <a href="https://github.com/kavicastelo?tab=followers" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/kavicastelo?style=flat&logo=github&logoColor=ffffff&labelColor=575757&color=1183c3">
   </a>
-  <a href="https://github.com/kavicastelo?tab=followers" target="_blank">
+  <a href="https://github.com/kavicastelo" target="_blank">
     <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/kavicastelo/kavicastelo/main">
+  </a>
+  <a href="https://wakatime.com/@kavicastelo" target="_blank">
+    <img alt="Waka Time" src="https://wakatime.com/badge/user/f5f0652e-a91e-4817-8d58-214dff12419c.svg?style=flat">
   </a>
 </div>
 
