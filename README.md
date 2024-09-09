@@ -276,6 +276,12 @@
 <details>
   <summary>Activities on other dev platforms😉</summary>
 
+<h3 align="center">Stardev Rankings</h3>
+
+| Global      | Local |
+| ----------- | ----------- |
+| <a href="https://stardev.io/developers/kavicastelo"><img alt="Check out kavicastelo's profile on stardev.io" src="https://stardev.io/developers/kavicastelo/badge/languages/global.svg" /></a>      | <a href="https://stardev.io/developers/kavicastelo"><img alt="Check out kavicastelo's profile on stardev.io" src="https://stardev.io/developers/kavicastelo/badge/languages/locality.svg" /></a>       |
+
 <h3 align="center">Codeium</h3>
 <div width="100%" display="flex" align="center">
   <a herf="https://codeium.com/profile/kavicastelo">
