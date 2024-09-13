@@ -292,21 +292,18 @@
   </a>
 </div>
 
+<h3 align="center">Coading Activity</h3>
+<div align="center">
+  
+  | Coders Rank   | Wakatime    |
+| :--------- | --------: |
+| <a href="https://profile.codersrank.io/user/kavicastelo/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kavicastelo&bg=4b505d" /><source media="(prefers-color-scheme: light)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kavicastelo&bg=fff" /><img alt="codersrank" src="codersrank.svg" width="100%"/></picture></a>  | <a href="https://wakatime.com/@kavicastelo"><picture><source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@kavicastelo/15cc67e9-05bd-4000-b15d-7b4092c83d16.svg" /><source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@kavicastelo/e10233a1-3f24-4e3c-864c-493a4e42427a.svg" /><img alt="waka-time" src="wakatime.svg" width="100%"/></picture></a> |
+</div>
+
 <h3 align="center">Daily dev</h3>
 <div width="100%" display="flex" align="center">
   <a herf="https://github.com/kavicastelo">
     <img src="./devcard.png" width="80%" alt="Kavi Castelo's Dev Card"/>
-  </a>
-</div>
-
-<h3 align="center">Coders Rank</h3>
-<div width="100%" display="flex" align="center">
-  <a href="https://profile.codersrank.io/user/kavicastelo/">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kavicastelo&bg=4b505d" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kavicastelo&bg=fff" />
-    <img alt="codersrank" src="codersrank.svg" />
-  </picture>
   </a>
 </div>
 </details>
