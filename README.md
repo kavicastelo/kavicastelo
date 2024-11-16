@@ -176,6 +176,12 @@
   <a href="https://github.com/kavicastelo">
 <img src="https://img.icons8.com/color/48/github.png"/>
 </a>
+  <a href="https://leetcode.com/u/kavicastelo/">
+<img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/>
+</a>
+  <a href="https://www.geeksforgeeks.org/user/kavicastelo/">
+<img width="50" height="50" src="https://img.icons8.com/color/50/GeeksforGeeks.png"/>
+</a>
   <a href="https://www.kaggle.com/kavindukokila">
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png"/>
 </a>
