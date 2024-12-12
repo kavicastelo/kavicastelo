@@ -2,6 +2,13 @@
 <a href="https://github.com/kavicastelo"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Kavindu+Kokila;I'm+a+web+developer;I'm+an+android+developer;I'm+a+cross-platform+developer;I'm+a+fullstack+developer" alt="Typing SVG" /></a>  
 </div>
 
+
+<a href="https://github.com/kavicastelo">
+  <img src="https://render.gitanimals.org/lines/kavicastelo" width="30%" height="100" />
+  <img src="https://render.gitanimals.org/lines/kavicastelo?pet-id=655005503710681287" width="30%" height="100" />
+  <img src="https://render.gitanimals.org/lines/kavicastelo?pet-id=655005503710681292" width="30%" height="100" />
+</a>
+
 <div>
   <p>Graduated in Bachelor of Science (Hons) degree focused in Computer and Software Engineering from Cardiff Metropolitan University. Self-motivated, innovative thinking and able to work with a team. I love to work on MEAN Stack development and am also interested in the Springboot framework. I know about React, React Native, and ASP.net but am not interested in them much. Additionally, I have experience with Java mobile development and am quite interested in mobile development. Mostly I use Mongo as the database in my projects and also I know SQL, Postgres, and Firebase.</p>
 
@@ -306,12 +313,15 @@
 | <a href="https://profile.codersrank.io/user/kavicastelo/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kavicastelo&bg=4b505d" /><source media="(prefers-color-scheme: light)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kavicastelo&bg=fff" /><img alt="codersrank" src="codersrank.svg" width="100%"/></picture></a>  | <a href="https://wakatime.com/@kavicastelo"><picture><source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@kavicastelo/15cc67e9-05bd-4000-b15d-7b4092c83d16.svg" /><source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@kavicastelo/e10233a1-3f24-4e3c-864c-493a4e42427a.svg" /><img alt="waka-time" src="wakatime.svg" width="100%"/></picture></a> |
 </div>
 
-<h3 align="center">Daily dev</h3>
-<div width="100%" display="flex" align="center">
-  <a herf="https://github.com/kavicastelo">
-    <img src="./devcard.png" width="80%" alt="Kavi Castelo's Dev Card"/>
+<div display="flex">
+  <a href="https://github.com/kavicastelo">
+    <img alt="Kavi Castelo's GitHub Stats" src="https://stats.hyo.dev/api/github-stats-advanced?login=kavicastelo" width="45%" />
+  </a>
+  <a href="https://github.com/kavicastelo">
+    <img alt="Kavi Castelo's Dev Card" src="./devcard.png" width="45%"/>
   </a>
 </div>
+
 </details>
 
 <picture>
