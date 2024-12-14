@@ -4,9 +4,9 @@
 
 
 <a href="https://github.com/kavicastelo">
-  <img src="https://render.gitanimals.org/lines/kavicastelo" width="30%" height="100" />
-  <img src="https://render.gitanimals.org/lines/kavicastelo?pet-id=655005503710681287" width="30%" height="100" />
-  <img src="https://render.gitanimals.org/lines/kavicastelo?pet-id=655005503710681292" width="30%" height="100" />
+  <img src="https://render.gitanimals.org/lines/kavicastelo?pet-id=655005503710681288" width="30%" height="100" />
+  <img src="https://render.gitanimals.org/lines/kavicastelo?pet-id=655084059983724938" width="30%" height="100" />
+  <img src="https://render.gitanimals.org/lines/kavicastelo?pet-id=655005503710681290" width="30%" height="100" />
 </a>
 
 <div>
@@ -341,6 +341,10 @@
 ![Daily-dev Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/DevCard.yml?label=daily-dev)
 ![Snake Contributions](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/snake.yml?label=snake_contributions)
 
+</div>
+
+<div display="flex" align="center">
+  <img src="https://count.getloli.com/@kavicastelo?name=kavicastelo&theme=rule34&padding=1&offset=0&align=top&scale=1.5&pixelated=1&darkmode=auto&prefix=00072">
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Thank%20you%20for%20visiting%20my%20profile👋&reversal=false&section=footer&fontSize=16&animation=twinkling&fontAlignY=80">
