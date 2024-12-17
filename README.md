@@ -344,7 +344,7 @@
 </div>
 
 <div display="flex" align="center">
-  <img src="https://count.getloli.com/@kavicastelo?name=kavicastelo&theme=rule34&padding=1&offset=0&align=top&scale=1.5&pixelated=1&darkmode=auto&prefix=00072">
+  <img src="https://count.getloli.com/@kavicastelo?name=kavicastelo&theme=rule34&padding=1&offset=0&align=top&scale=1.5&pixelated=1&darkmode=auto&prefix=0007">
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Thank%20you%20for%20visiting%20my%20profile👋&reversal=false&section=footer&fontSize=16&animation=twinkling&fontAlignY=80">
