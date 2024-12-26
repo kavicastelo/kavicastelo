@@ -4,8 +4,15 @@
 
 $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
 
+<a href="https://github.com/kavicastelo">
+  <img src="https://render.gitanimals.org/lines/kavicastelo?pet-id=655005503710681288" width="30%" height="100" />
+  <img src="https://render.gitanimals.org/lines/kavicastelo?pet-id=655084059983724938" width="30%" height="100" />
+  <img src="https://render.gitanimals.org/lines/kavicastelo?pet-id=655005503710681290" width="30%" height="100" />
+</a>
+
 <div>
-  <p>Graduated in Bachelor of Science (Hons) degree focused in Computer and Software Engineering from Cardiff Metropolitan University. Self-motivated, innovative thinking and able to work with a team. I love to work on MEAN Stack development and am also interested in the Springboot framework. I know about React, React Native, and ASP.net but am not interested in them much. Additionally, I have experience with Java mobile development and am quite interested in mobile development. Mostly I use Mongo as the database in my projects and also I know SQL, Postgres, and Firebase.</p></div>
+  <p>Graduated in Bachelor of Science (Hons) degree focused in Computer and Software Engineering from Cardiff Metropolitan University. Self-motivated, innovative thinking and able to work with a team. I love to work on MEAN Stack development and am also interested in the Springboot framework. I know about React, React Native, and ASP.net but am not interested in them much. Additionally, I have experience with Java mobile development and am quite interested in mobile development. Mostly I use Mongo as the database in my projects and also I know SQL, Postgres, and Firebase.</p>
+</div>
 
 
 <i>Check out my [Portfolio](https://kavindukokila.netlify.app/)</i> <br>
@@ -306,12 +313,15 @@ $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
 | <a href="https://profile.codersrank.io/user/kavicastelo/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kavicastelo&bg=4b505d" /><source media="(prefers-color-scheme: light)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kavicastelo&bg=fff" /><img alt="codersrank" src="codersrank.svg" width="100%"/></picture></a>  | <a href="https://wakatime.com/@kavicastelo"><picture><source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@kavicastelo/15cc67e9-05bd-4000-b15d-7b4092c83d16.svg" /><source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@kavicastelo/e10233a1-3f24-4e3c-864c-493a4e42427a.svg" /><img alt="waka-time" src="wakatime.svg" width="100%"/></picture></a> |
 </div>
 
-<h3 align="center">Daily dev</h3>
-<div width="100%" display="flex" align="center">
-  <a herf="https://github.com/kavicastelo">
-    <img src="./devcard.png" width="80%" alt="Kavi Castelo's Dev Card"/>
+<div display="flex">
+  <a href="https://github.com/kavicastelo">
+    <img alt="Kavi Castelo's GitHub Stats" src="https://stats.hyo.dev/api/github-stats-advanced?login=kavicastelo" width="45%" />
+  </a>
+  <a href="https://github.com/kavicastelo">
+    <img alt="Kavi Castelo's Dev Card" src="./devcard.png" width="45%"/>
   </a>
 </div>
+
 </details>
 
 <picture>
@@ -331,6 +341,10 @@ $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
 ![Daily-dev Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/DevCard.yml?label=daily-dev)
 ![Snake Contributions](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/snake.yml?label=snake_contributions)
 
+</div>
+
+<div display="flex" align="center">
+  <img src="https://count.getloli.com/@kavicastelo?name=kavicastelo&theme=rule34&padding=1&offset=0&align=top&scale=1.5&pixelated=1&darkmode=auto&prefix=0007">
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Thank%20you%20for%20visiting%20my%20profile👋&reversal=false&section=footer&fontSize=16&animation=twinkling&fontAlignY=80">
