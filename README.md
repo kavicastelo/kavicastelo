@@ -2,17 +2,17 @@
 <a href="https://github.com/kavicastelo"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Kavindu+Kokila;I'm+a+web+developer;I'm+an+android+developer;I'm+a+cross-platform+developer;I'm+a+fullstack+developer" alt="Typing SVG" /></a>  
 </div>
 
+$$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
+
 <div>
-  <p>Graduated in Bachelor of Science (Hons) degree focused in Computer and Software Engineering from Cardiff Metropolitan University. Self-motivated, innovative thinking and able to work with a team. I love to work on MEAN Stack development and am also interested in the Springboot framework. I know about React, React Native, and ASP.net but am not interested in them much. Additionally, I have experience with Java mobile development and am quite interested in mobile development. Mostly I use Mongo as the database in my projects and also I know SQL, Postgres, and Firebase.</p>
+  <p>Graduated in Bachelor of Science (Hons) degree focused in Computer and Software Engineering from Cardiff Metropolitan University. Self-motivated, innovative thinking and able to work with a team. I love to work on MEAN Stack development and am also interested in the Springboot framework. I know about React, React Native, and ASP.net but am not interested in them much. Additionally, I have experience with Java mobile development and am quite interested in mobile development. Mostly I use Mongo as the database in my projects and also I know SQL, Postgres, and Firebase.</p></div>
 
 
 <i>Check out my [Portfolio](https://kavindukokila.netlify.app/)</i> <br>
 <i>Check out my [Digital Garden](https://kavicastelo.netlify.app/)</i> <br>
 <i>Check out my [Blog](https://kavicastelo.blogspot.com/)
 
-###  
-
-</div>
+###
 
 <div width ="100%" display="flex" align="center">
   <picture>
