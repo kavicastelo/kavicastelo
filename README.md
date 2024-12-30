@@ -11,13 +11,15 @@ $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
 </a>
 
 <div>
-  <p>Graduated in Bachelor of Science (Hons) degree focused in Computer and Software Engineering from Cardiff Metropolitan University. Self-motivated, innovative thinking and able to work with a team. I love to work on MEAN Stack development and am also interested in the Springboot framework. I know about React, React Native, and ASP.net but am not interested in them much. Additionally, I have experience with Java mobile development and am quite interested in mobile development. Mostly I use Mongo as the database in my projects and also I know SQL, Postgres, and Firebase.</p>
+  <p>‎‎ ‎ ‎ ‎ Graduated in Bachelor of Science (Hons) degree focused in Computer and Software Engineering from Cardiff Metropolitan University. Self-motivated, innovative thinking and able to work with a team. I love to work on MEAN Stack development and am also interested in the Springboot framework. I know about React, React Native, and ASP.net but am not interested in them much. Additionally, I have experience with Java mobile development and am quite interested in mobile development. Mostly I use Mongo as the database in my projects and also I know SQL, Postgres, and Firebase.</p>
 </div>
 
 
 <i>Check out my [Portfolio](https://kavindukokila.netlify.app/)</i> <br>
 <i>Check out my [Digital Garden](https://kavicastelo.netlify.app/)</i> <br>
 <i>Check out my [Blog](https://kavicastelo.blogspot.com/)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kavicastelo)
 
 ###
 
