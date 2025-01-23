@@ -291,6 +291,17 @@ $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
 <details>
   <summary>Activities on other dev platforms😉</summary>
 
+<h3 align="center">Leetcode</h3>
+<div align="center">
+  <a href="https://leetcode.com/u/kavicastelo/">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/kavicastelo?theme=radical&font=Basic&ext=heatmap" />
+  <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/kavicastelo?theme=light&font=Basic&ext=heatmap" />
+  <img alt="leetcode-graph" src="leetcode.svg" />
+</picture>
+</a>
+</div>
+
 <h3 align="center">Stardev Rankings</h3>
 
 | Global      | Local |
