@@ -10,19 +10,67 @@ $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
   <img src="https://render.gitanimals.org/lines/kavicastelo?pet-id=655005503710681290" width="30%" height="100" />
 </a>
 
-<div>
-  <p>‎‎ ‎ ‎ ‎ Graduated in Bachelor of Science (Hons) degree focused in Computer and Software Engineering from Cardiff Metropolitan University. Self-motivated, innovative thinking and able to work with a team. I love to work on MEAN Stack development and am also interested in the Springboot framework. I know about React, React Native, and ASP.net but am not interested in them much. Additionally, I have experience with Java mobile development and am quite interested in mobile development. Mostly I use Mongo as the database in my projects and also I know SQL, Postgres, and Firebase.</p>
-</div>
+‎‎ ‎ ‎ ‎ I am a **full-stack software engineer** and **entrepreneur** who specializes in developing **scalable web, mobile, and enterprise solutions**. With a strong foundation in **MEAN stack**, **Java-based systems**, and **cloud-native development**, I thrive on solving complex problems and building high-performance software.
 
+### 🚀 About Me
+- 🔥 **Co-Founder & Tech Lead** at **Talent Boozt** – Innovating **SaaS HR Tech** solutions
+- 💻 **12+ hours of daily coding** – Focused on full-stack, AI, and cloud computing
+- 🔬 Passionate about **AI, DevOps, and Large-Scale System Design**
+- 🎯 Aiming to **achieve full financial independence** before **30** 🔥
+- 🏆 **LeetCode & GitHub Streaks** – **100+ day problem-solving streak** & **560+ day contribution streak**
 
-<i>Check out my [Portfolio](https://kavindukokila.netlify.app/)</i> <br>
 <i>Check out my [Digital Garden](https://kavicastelo.netlify.app/)</i> <br>
 <i>Check out my [Blog](https://kavicastelo.blogspot.com/)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kavicastelo)
+---
 
-###
+### 💡 Tech Stack
 
+#### **🚀 Programming & Scripting:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-FF61E2?style=flat&logo=c%2B%2B&logoColor=blck)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Static Badge](https://img.shields.io/badge/PHP-A2A4D2?style=flat&logo=php&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Assembly-2461A3?style=flat&logo=assembly&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+
+#### **🖥️ Frontend:**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+#### **⚙️ Backend:**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+
+#### **🗄️ Databases:**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Firebase-FFA50A?style=flat&logo=firebase&logoColor=white)
+![Static Badge](https://img.shields.io/badge/DynamoDB-000000?style=flat&logo=amazon&logoColor=white)
+
+#### **🌐 APIs:**
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Static Badge](https://img.shields.io/badge/JWT-000000?style=flat&logo=jwt&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Bearer-000000?style=flat&logo=bearer&logoColor=white)
+
+#### **☁️ DevOps & Cloud:**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+#### **📊 AI & Data Science:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+---
+
+### ⚡ GitHub Stats
 <div width ="100%" display="flex" align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kavicastelo&theme=radical&rank_icon=percentile&show_icons=true&show=prs_merged,reviews,prs_merged_percentage" />
@@ -32,10 +80,6 @@ $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
 
   <img width="35%" align="right" alt ="gif" src ="https://github.com/kavicastelo/web_assets/blob/main/hacker-png.gif">
 </div>
-
-###
-
-<h2 align="center">Activity on Github</h2>
 
 <p align="center">
   <picture>
@@ -66,153 +110,105 @@ $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
   </picture>
 </div>
 
+---
 
-[//]: # (<p align="center"> )
+### 🔥 What I'm Working On
+- 🚀 Scaling **Talent Boozt** for enterprise clients
+- 🤖 Developing **AI-powered ATS recruitment tools**
+- ☁️ Enhancing **cloud-native deployment pipelines**
 
-[//]: # ()
+---
 
-[//]: # ([![kavicastelo's github activity graph]&#40;https://activity-graph.herokuapp.com/graph?username=kavicastelo&theme=gotham&#41;]&#40;https://github.com/kavicastelo/github-readme-activity-graph&theme=github&#41;)
+### 🌟 Highlighted Areas of Expertise
+✔ **SaaS Product Development** – Built & scaled job board platforms, HRM systems, ATS tools, and resume builders.
 
-[//]: # ()
+✔ **Enterprise Applications** – POS systems, HRM platforms, and job recruitment solutions.
 
-[//]: # (</p>)
+✔ **AI & Machine Learning** – Experience with AI model training, data analysis, and large-scale prediction platforms.
 
-<br>
+✔ **DevOps & Cloud** – AWS, Linux, CI/CD pipelines, Docker (though not a fan 😆).
 
-<h3 align="center">My Current Tech Stack 👾</h3>
-<div width="100%" display="flex" align="center">
-  <code><img src="https://img.icons8.com/color/48/angularjs.png"></code>
-  <code><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png"></code>
-  <code><img src="https://img.icons8.com/color/48/spring-logo.png"></code>
-  <code><img src="https://img.icons8.com/offices/40/express-js.png"></code>
-  <code><img src="https://img.icons8.com/fluency/48/node-js.png"></code>
-</div>
+✔ **Game Development** – 2D games using JavaScript Canvas & Godot.
 
-<br>
-<br>
-<details align="center">
+---
+
+### ⚙️ My DevOps Workflow
+- ✅ **Continuous Integration**: Automated builds using **GitHub Actions**
+- 🚀 **Continuous Deployment**: Dockerized microservices on **AWS**
+- 📈 **Monitoring**: Using **Grafana** for system health
+
+---
+
+### 🔹 Why Connect With Me?
+🚀 **I’m passionate about tech innovation, building scalable applications, and solving real-world problems.** Open to **collaborations, speaking opportunities, and mentorship.**
+
+📫 **Let's connect:** [Linkedin](https://linkedin.com/in/kavindu-kokila-710963250)
+| [Twitter](https://twitter.com/kavicastelo)
+| [Portfolio](https://kavindukokila.netlify.app)
+
+---
+
+### 📊 Profile Insights
+![GitHub Followers](https://img.shields.io/github/followers/kavicastelo?style=flat&logo=github&logoColor=ffffff&labelColor=575757&color=1183c3)
+![Profile Views](https://komarev.com/ghpvc/?username=kavicastelo&label=Profile%20Views&color=blue&style=flat)
+![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/kavicastelo/kavicastelo/main?color=blue&label=Commit%20Activity)
+![Waka Time](https://wakatime.com/badge/user/f5f0652e-a91e-4817-8d58-214dff12419c.svg)
+![GitHub Stars](https://img.shields.io/github/stars/kavicastelo?style=flat&logo=github&logoColor=ffffff&labelColor=575757&color=1183c3)
+
+---
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kavicastelo)
+
+<details>
   <summary>🦑 Github Metrics 🌌</summary>
   <img src="https://github.com/kavicastelo/kavicastelo/blob/main/metrics.plugin.achievements.compact.svg" alt="metrics">
   <img src="https://github.com/kavicastelo/kavicastelo/blob/main/metrics.plugin.languages.indepth.svg" alt="language-analysis" width="70%">
 </details>
 
-<br>
+---
 
-<details align="center">
-  <summary>🧑 More about me</summary>
-
-<h3 align="center">Languages I Know</h3>
-
-<div width="100%" display="flex" align="center">
-<code><img src="https://img.icons8.com/color/48/javascript--v1.png"/></code>
-<code><img src="https://img.icons8.com/fluency/48/typescript--v2.png"/></code>
-<code><img src="https://img.icons8.com/color/48/css3.png"/></code>
-<code><img src="https://img.icons8.com/color/48/html-5--v1.png"/></code>
-<code><img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"/></code>
-<code><img src="https://img.icons8.com/fluency/48/python.png"></code>
-<code><img src="https://img.icons8.com/color/48/kotlin.png"></code>
-<code><img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/></code>
-<code><img src="https://img.icons8.com/color/48/c-sharp-logo-2.png"/></code>
-<code><img src="https://img.icons8.com/color/48/c-programming.png"/></code>
-<code><img width="48" height="48" src="https://img.icons8.com/color/48/assembly.png"/></code>
-<code><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-r-project-a-free-software-environment-for-statistical-computing-and-graphics-logo-shadow-tal-revivo.png"></code>
-<code><img src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-PHP-programming-and-development-those-icons-flat-those-icons.png"></code>
-<code><img src="https://img.icons8.com/nolan/48/rust-programming-language--v1.png" alt="rust-programming-language--v1"/></code>
-</div>
-
-<h3 align="center">Mostly Used Frameworks, Platforms and Libraries</h3>
-
-<div width="100%" display="flex" align="center">
-  <code><img src="https://img.icons8.com/color/48/angularjs.png"></code>
-  <code><img src="https://img.icons8.com/color/48/bootstrap--v2.png"></code>
-  <code><img src="https://img.icons8.com/color/48/spring-logo.png"></code>
-  <code><img width="48" src="https://asset.brandfetch.io/idFdo8ulhr/idg4l58CuH.svg"></code>
-  <code><img src="https://img.icons8.com/offices/40/express-js.png"></code>
-  <code><img src="https://img.icons8.com/color/48/java-web-token.png"></code>
-  <code><img src="https://img.icons8.com/color/48/npm.png"></code>
-  <code><img src="https://img.icons8.com/fluency/48/node-js.png"></code>
-  <code><img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/external-nodemon-process-will-automatically-restart-when-your-code-changes-logo-green-tal-revivo.png"></code>
-  <code><img src="https://img.icons8.com/office/40/react.png"></code>
-  <code><img src="https://img.icons8.com/color/48/react-native.png"></code>
-  <code><img src="https://img.icons8.com/external-creatype-filed-outline-colourcreatype/48/external-document-file-extension-web-format-file-creatype-filed-outline-colourcreatype-8.png"></code>
-  <code><img src="https://ratfactor.com/misc/mingw64/logo01.png" width="48"/></code>
-  <code><img src="https://www.nasm.us/images/nasm.png" width="48"/></code>
-</div>
-
-<h3 align="center">Databases I Frequently Used</h3>
-
-<div width="100%" display="flex" align="center">
-<code><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png"></code>
-<code><img src="https://img.icons8.com/color/48/mysql-logo.png"></code>
-<code><img width="48" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"></code>
-<code><img src="https://img.icons8.com/color/48/microsoft-sql-server.png"></code>
-<code><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-shadow-tal-revivo.png"></code>
-<code><img src="https://img.icons8.com/color/48/firebase.png"></code>
-<code><img src="https://img.icons8.com/fluency/48/maria-db.png"></code>
-<code><img src="https://img.icons8.com/color/48/amazon.png"></code>
-</div>
-</details>
-
-<br>
-<br>
-
-<h3 align="center">Get in touch</h3>
-
-<div width="100%" display="flex" align="center">
-<a href="mailto:kavindu.kokila.info@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png"/>
-</a>
-  <a href=" https://linkedin.com/in/kavindu-kokila-0b0636290">
-<img src="https://img.icons8.com/fluency/48/linkedin.png"/>
-</a>
-  <a href="https://twitter.com/kavicastelo?fbclid=IwAR1nDnX7rtkOGJFfx2NgQqvcj4Zs6Xa3IzAaf-3HD4P-be_LrwyEPahmtzM">
-<img src="https://img.icons8.com/color/48/twitterx--v1.png"/>
-</a>
-  <a href="https://www.facebook.com/kavi.castelo">
-<img src="https://img.icons8.com/color/48/facebook-new.png"/>
-</a>
-</div>
-
-<h3 align="center">Find me on communities</h3>
+### 👨‍💻 Find me on communities
 
 <div width="100%" display="flex" align="center">
   <a href="https://stackoverflow.com/users/20531015/kavi-castelo">
-<img src="https://img.icons8.com/color-glass/48/stackoverflow.png"/>
+<code><img src="https://img.icons8.com/color-glass/48/stackoverflow.png"/></code>
 </a>
   <a href="https://gitlab.com/kavicastelo">
-<img src="https://img.icons8.com/color/48/gitlab.png"/>
+<code><img src="https://img.icons8.com/color/48/gitlab.png"/></code>
 </a>
   <a href="https://github.com/kavicastelo">
-<img src="https://img.icons8.com/color/48/github.png"/>
+<code><img src="https://img.icons8.com/color/48/github.png"/></code>
 </a>
   <a href="https://leetcode.com/u/kavicastelo/">
-<img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/>
+<code><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/></code>
 </a>
   <a href="https://www.geeksforgeeks.org/user/kavicastelo/">
-<img width="50" height="50" src="https://img.icons8.com/color/50/GeeksforGeeks.png"/>
+<code><img width="50" height="50" src="https://img.icons8.com/color/50/GeeksforGeeks.png"/></code>
 </a>
   <a href="https://www.kaggle.com/kavindukokila">
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png"/>
+<code><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png"/></code>
 </a>
   <a href="https://stackexchange.com/users/26963768/kavi-castelo">
-<img src="https://img.icons8.com/color/48/stackexchange.png"/>
+<code><img src="https://img.icons8.com/color/48/stackexchange.png"/></code>
 </a>
   <a href="https://codepen.io/kavicastelo">
-<img src="https://img.icons8.com/color/48/codepen.png"/>
+<code><img src="https://img.icons8.com/color/48/codepen.png"/></code>
 </a>
   <a href="https://app.daily.dev/kavi_castelo">
-<img width="48" height="48" src="https://daily-now-res.cloudinary.com/image/upload/v1614088267/landing/Daily.dev_logo.png"/>
+<code><img width="48" height="48" src="https://daily-now-res.cloudinary.com/image/upload/v1614088267/landing/Daily.dev_logo.png"/></code>
 </a>
   <a href="https://profile.codersrank.io/user/kavicastelo">
-<img width="60" src="https://seeklogo.com/images/C/codersrank-logo-31F4344B52-seeklogo.com.png"/>
+<code><img width="60" src="https://www.svgrepo.com/show/305886/codersrank.svg"/></code>
 </a>
   <a href="https://codeium.com/profile/kavicastelo">
-<img width="42" height="42" src="https://exafunction.github.io/public/icons/codeium_logo.png"/>
+<code><img width="42" height="42" src="https://exafunction.github.io/public/icons/codeium_logo.png"/></code>
 </a>
 
 </div>
 
-## 3D Contribution metrics🌌 (latest)
+---
+
+### 🌌 3D Contribution metrics(latest)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kavicastelo/kavicastelo/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
@@ -220,34 +216,9 @@ $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
   <img alt="3d-contrib" src="3d-contrib.svg" />
 </picture>
 
-#
+---
 
-<div width="100%" display="flex" align="center">
-  <a href="https://github.com/kavicastelo" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=kavicastelo" alt="page views" />
-  </a>
-  <a href="https://github.com/kavicastelo" target="_blank">
-    <img src="https://img.shields.io/github/stars/kavicastelo?style=flat&logo=github&logoColor=ffffff&labelColor=575757&color=1183c3" alt="stars" />
-  </a>
-  <a href="https://github.com/kavicastelo?tab=followers" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/kavicastelo?style=flat&logo=github&logoColor=ffffff&labelColor=575757&color=1183c3">
-  </a>
-  <a href="https://github.com/kavicastelo" target="_blank">
-    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/kavicastelo/kavicastelo/main">
-  </a>
-  <a href="https://wakatime.com/@kavicastelo" target="_blank">
-    <img alt="Waka Time" src="https://wakatime.com/badge/user/f5f0652e-a91e-4817-8d58-214dff12419c.svg?style=flat">
-  </a>
-</div>
-
-## Profile Repo's Stat
-
-![repo size](https://img.shields.io/github/repo-size/kavicastelo/kavicastelo?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
-![GitHub forks](https://img.shields.io/github/forks/kavicastelo/kavicastelo?&labelColor=black&color=0fb9b1&style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/kavicastelo/kavicastelo?&labelColor=black&color=f7b731&style=for-the-badge)
-![GitHub LastCommit](https://img.shields.io/github/last-commit/kavicastelo/kavicastelo?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
-
-## Gists may you important
+### 📃 Gists may you important
 
 <div width="100%" display="flex" align="center">
   <a href="https://gist.github.com/kavicastelo/8faf5592f24a45ff1151378f0fb40309/">
@@ -266,7 +237,9 @@ $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
   </a>
 </div>
 
-<br>
+---
+
+### 🏆 Github Trophies
 
 <p align="center">
   <a href="https://github.com/kavicastelo">
@@ -278,7 +251,7 @@ $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
   </a>
 </p>
 
-## Monthly Contribution Stats
+### 📈 Monthly Contribution Stats
 
 <a href="https://github.com/kavicastelo">
 <picture>
@@ -287,6 +260,8 @@ $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
   <img alt="activity-graph" src="activity-graph.svg" />
 </picture>
 </a>
+
+---
 
 <details>
   <summary>Activities on other dev platforms😉</summary>
@@ -302,12 +277,6 @@ $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
 </a>
 </div>
 
-<h3 align="center">Stardev Rankings</h3>
-
-| Global      | Local |
-| ----------- | ----------- |
-| <a href="https://stardev.io/developers/kavicastelo"><img alt="Check out kavicastelo's profile on stardev.io" src="https://stardev.io/developers/kavicastelo/badge/languages/global.svg" /></a>      | <a href="https://stardev.io/developers/kavicastelo"><img alt="Check out kavicastelo's profile on stardev.io" src="https://stardev.io/developers/kavicastelo/badge/languages/locality.svg" /></a>       |
-
 <h3 align="center">Codeium</h3>
 <div width="100%" display="flex" align="center">
   <a herf="https://codeium.com/profile/kavicastelo">
@@ -320,8 +289,8 @@ $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
 
 <h3 align="center">Coading Activity</h3>
 <div align="center">
-  
-  | Coders Rank   | Wakatime    |
+
+| Coders Rank   | Wakatime    |
 | :--------- | --------: |
 | <a href="https://profile.codersrank.io/user/kavicastelo/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kavicastelo&bg=4b505d" /><source media="(prefers-color-scheme: light)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kavicastelo&bg=fff" /><img alt="codersrank" src="codersrank.svg" width="100%"/></picture></a>  | <a href="https://wakatime.com/@kavicastelo"><picture><source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@kavicastelo/15cc67e9-05bd-4000-b15d-7b4092c83d16.svg" /><source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@kavicastelo/e10233a1-3f24-4e3c-864c-493a4e42427a.svg" /><img alt="waka-time" src="wakatime.svg" width="100%"/></picture></a> |
 </div>
@@ -359,5 +328,7 @@ $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
 <div display="flex" align="center">
   <img src="https://count.getloli.com/@kavicastelo?name=kavicastelo&theme=rule34&padding=1&offset=0&align=top&scale=1.5&pixelated=1&darkmode=auto&prefix=001">
 </div>
+
+🔥 **Let's build something awesome together!**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Thank%20you%20for%20visiting%20my%20profile👋&reversal=false&section=footer&fontSize=16&animation=twinkling&fontAlignY=80">
