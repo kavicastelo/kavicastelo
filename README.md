@@ -7,7 +7,7 @@ $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
 <a href="https://github.com/kavicastelo">
   <img src="https://render.gitanimals.org/lines/kavicastelo?pet-id=655005503710681288" width="30%" height="100" />
   <img src="https://render.gitanimals.org/lines/kavicastelo?pet-id=655084059983724938" width="30%" height="100" />
-  <img src="https://render.gitanimals.org/lines/kavicastelo?pet-id=655005503710681290" width="30%" height="100" />
+  <img src="https://render.gitanimals.org/lines/kavicastelo?pet-id=676696471626403543" width="30%" height="100" />
 </a>
 
 ‎‎ ‎ ‎ ‎ I am a **full-stack software engineer** and **entrepreneur** who specializes in developing **scalable web, mobile, and enterprise solutions**. With a strong foundation in **MEAN stack**, **Java-based systems**, and **cloud-native development**, I thrive on solving complex problems and building high-performance software.
