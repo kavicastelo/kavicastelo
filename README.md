@@ -161,8 +161,18 @@ $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
 
 <details>
   <summary>🦑 Github Metrics 🌌</summary>
-  <img src="https://github.com/kavicastelo/kavicastelo/blob/main/metrics.plugin.achievements.compact.svg" alt="metrics">
-  <img src="https://github.com/kavicastelo/kavicastelo/blob/main/metrics.plugin.languages.indepth.svg" alt="language-analysis" width="70%">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/kavicastelo/kavicastelo/blob/main/metrics.plugin.achievements.compact.svg" alt="metrics">
+        <img src="https://github.com/kavicastelo/kavicastelo/blob/main/metrics.plugin.followup.indepth.svg" alt="metrics">
+      </td>
+      <td>
+        <img src="https://github.com/kavicastelo/kavicastelo/blob/main/metrics.classic.svg" alt="classic metrics">
+        <img src="https://github.com/kavicastelo/kavicastelo/blob/main/metrics.plugin.languages.indepth.svg" alt="language-analysis">
+      </td>
+    </tr>
+  </table>
 </details>
 
 ---
