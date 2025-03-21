@@ -19,12 +19,10 @@ jobs:
           filename: metrics.plugin.achievements.compact.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: "header, repositories"
-          plugin_lines: yes
           plugin_achievements: yes
           plugin_achievements_only: >-
             polyglot, contributor, reviewer, inspirer, gister, stargazer,
             deployer, member, maintainer, developer, influencer, chatter,
             forker, follower, scripter, packager, explorer, verified, manager
-          plugin_followup: yes
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
