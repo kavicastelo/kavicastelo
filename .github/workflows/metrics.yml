@@ -18,7 +18,7 @@ jobs:
         with:
           filename: metrics.plugin.achievements.compact.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: "header, repositories"
+          base: ""
           plugin_achievements: yes
           plugin_achievements_only: >-
             polyglot, contributor, reviewer, inspirer, gister, stargazer,
