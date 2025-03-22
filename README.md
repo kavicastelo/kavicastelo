@@ -327,10 +327,12 @@ $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
 <div align="right">
 <p>Workflow status⚙</p>
 
-![3d-contrib Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/profile-3d.yml?label=3d-contributions)
-![Github Metrics](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/metrics.yml?label=github-metrics)
-![Github Languages](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/langUse.yml?label=github-language-use)
-![Daily-dev Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/DevCard.yml?label=daily-dev)
+![3d-contrib metrics](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/profile-3d.yml?label=3d-contributions)
+![Overview](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/classic.yml?label=overview)
+![Achievements](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/metrics.yml?label=achievements)
+![Recent Languages](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/langUse.yml?label=recent_languages)
+![PR Status](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/indepth.yml?label=pr_status)
+![Daily-dev](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/DevCard.yml?label=daily-dev)
 ![Snake Contributions](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/snake.yml?label=snake_contributions)
 
 </div>
