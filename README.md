@@ -17,11 +17,20 @@ $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
 - 💻 **12+ hours of daily coding** – Focused on full-stack, AI, and cloud computing
 - 🔬 Passionate about **AI, DevOps, and Large-Scale System Design**
 - 🎯 Aiming to **achieve full financial independence** before **30** 🔥
-- 🏆 **LeetCode & GitHub Streaks** – **100+ day problem-solving streak** & **560+ day contribution streak**
+- 🏆 **LeetCode & GitHub Streaks** – **150+ day problem-solving streak** & **600+ day contribution streak**
 
 <i>Check out my [Digital Garden](https://kavicastelo.netlify.app/)</i> <br>
-<i>Check out my [Blog](https://kavicastelo.blogspot.com/)
 
+---
+> ### ⚠️ Repository Order Notice
+> I recently reorganized my repositories, which brought some older, beginner-friendly projects to the top.
+These early-stage projects may lack features or contain minor bugs — but they’re a great starting point for learners or those who love to contribute!
+> 
+> 🔧 Contributions are warmly welcome – whether it’s fixing bugs, improving documentation, adding features, or doing code reviews.
+> 
+> You’ll also find more complex and production-grade projects throughout the repo list, suitable for intermediate and expert developers.
+> 
+> 🚀 Dive in, explore, and feel free to leave feedback, open issues, or raise pull requests. Let’s build together!
 ---
 
 ### 💡 Tech Stack
