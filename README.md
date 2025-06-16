@@ -240,10 +240,10 @@ These early-stage projects may lack features or contain minor bugs — but they�
 ### 📃 Gists may you important
 
 <div width="100%" display="flex" align="center">
-  <a href="https://gist.github.com/kavicastelo/8faf5592f24a45ff1151378f0fb40309/">
+  <a href="https://gist.github.com/kavicastelo/f7c385c372d054e1d43d71a274ed15a9/">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/gist?id=8faf5592f24a45ff1151378f0fb40309&show_owner=true&theme=radical" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/gist?id=8faf5592f24a45ff1151378f0fb40309&show_owner=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/gist?id=f7c385c372d054e1d43d71a274ed15a9&show_owner=true&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/gist?id=f7c385c372d054e1d43d71a274ed15a9&show_owner=true" />
     <img alt="3d-contrib" src="3d-contrib.svg" />
     </picture>
   </a>
