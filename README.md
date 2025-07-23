@@ -17,11 +17,20 @@ $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
 - 💻 **12+ hours of daily coding** – Focused on full-stack, AI, and cloud computing
 - 🔬 Passionate about **AI, DevOps, and Large-Scale System Design**
 - 🎯 Aiming to **achieve full financial independence** before **30** 🔥
-- 🏆 **LeetCode & GitHub Streaks** – **100+ day problem-solving streak** & **560+ day contribution streak**
+- 🏆 **LeetCode & GitHub Streaks** – **250+ day problem-solving streak** & **700+ day contribution streak**
 
 <i>Check out my [Digital Garden](https://kavicastelo.netlify.app/)</i> <br>
-<i>Check out my [Blog](https://kavicastelo.blogspot.com/)
 
+---
+> ### ⚠️ Repository Order Notice
+> I recently reorganized my repositories, which brought some older, beginner-friendly projects to the top.
+These early-stage projects may lack features or contain minor bugs — but they’re a great starting point for learners or those who love to contribute!
+> 
+> 🔧 Contributions are warmly welcome – whether it’s fixing bugs, improving documentation, adding features, or doing code reviews.
+> 
+> You’ll also find more complex and production-grade projects throughout the repo list, suitable for intermediate and expert developers.
+> 
+> 🚀 Dive in, explore, and feel free to leave feedback, open issues, or raise pull requests. Let’s build together!
 ---
 
 ### 💡 Tech Stack
@@ -161,8 +170,18 @@ $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
 
 <details>
   <summary>🦑 Github Metrics 🌌</summary>
-  <img src="https://github.com/kavicastelo/kavicastelo/blob/main/metrics.plugin.achievements.compact.svg" alt="metrics">
-  <img src="https://github.com/kavicastelo/kavicastelo/blob/main/metrics.plugin.languages.indepth.svg" alt="language-analysis" width="70%">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/kavicastelo/kavicastelo/blob/main/metrics.plugin.achievements.compact.svg" alt="metrics">
+        <img src="https://github.com/kavicastelo/kavicastelo/blob/main/metrics.plugin.followup.indepth.svg" alt="metrics">
+      </td>
+      <td>
+        <img src="https://github.com/kavicastelo/kavicastelo/blob/main/metrics.classic.svg" alt="classic metrics">
+        <img src="https://github.com/kavicastelo/kavicastelo/blob/main/metrics.plugin.languages.indepth.svg" alt="language-analysis">
+      </td>
+    </tr>
+  </table>
 </details>
 
 ---
@@ -221,10 +240,10 @@ $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
 ### 📃 Gists may you important
 
 <div width="100%" display="flex" align="center">
-  <a href="https://gist.github.com/kavicastelo/8faf5592f24a45ff1151378f0fb40309/">
+  <a href="https://gist.github.com/kavicastelo/f7c385c372d054e1d43d71a274ed15a9/">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/gist?id=8faf5592f24a45ff1151378f0fb40309&show_owner=true&theme=radical" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/gist?id=8faf5592f24a45ff1151378f0fb40309&show_owner=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/gist?id=f7c385c372d054e1d43d71a274ed15a9&show_owner=true&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/gist?id=f7c385c372d054e1d43d71a274ed15a9&show_owner=true" />
     <img alt="3d-contrib" src="3d-contrib.svg" />
     </picture>
   </a>
@@ -317,10 +336,12 @@ $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
 <div align="right">
 <p>Workflow status⚙</p>
 
-![3d-contrib Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/profile-3d.yml?label=3d-contributions)
-![Github Metrics](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/metrics.yml?label=github-metrics)
-![Github Languages](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/langUse.yml?label=github-language-use)
-![Daily-dev Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/DevCard.yml?label=daily-dev)
+![3d-contrib metrics](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/profile-3d.yml?label=3d-contributions)
+![Overview](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/classic.yml?label=overview)
+![Achievements](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/metrics.yml?label=achievements)
+![Recent Languages](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/langUse.yml?label=recent_languages)
+![PR Status](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/indepth.yml?label=pr_status)
+![Daily-dev](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/DevCard.yml?label=daily-dev)
 ![Snake Contributions](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/snake.yml?label=snake_contributions)
 
 </div>
