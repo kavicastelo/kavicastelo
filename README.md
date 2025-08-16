@@ -331,6 +331,18 @@ These early-stage projects may lack features or contain minor bugs â€” but theyâ
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/kavicastelo/kavicastelo/blob/main/images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/kavicastelo/kavicastelo/blob/main/images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="https://github.com/kavicastelo/kavicastelo/blob/main/images/breakout-light.svg" />
+</picture>
+
 ---
 
 <div align="right">
@@ -343,6 +355,7 @@ These early-stage projects may lack features or contain minor bugs â€” but theyâ
 ![PR Status](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/indepth.yml?label=pr_status)
 ![Daily-dev](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/DevCard.yml?label=daily-dev)
 ![Snake Contributions](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/snake.yml?label=snake_contributions)
+![Breakout Contributions](https://img.shields.io/github/actions/workflow/status/kavicastelo/kavicastelo/.github/workflows/breakout.yml?label=breakout_contributions)
 
 </div>
 
