@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v5
 
       - name: generate SVG
-        uses: cyprieng/github-breakout@v1.2.0
+        uses: cyprieng/github-breakout@v1.2.1
         with:
           github_username: ${{ github.repository_owner }}
 
