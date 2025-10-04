@@ -81,21 +81,28 @@ These early-stage projects may lack features or contain minor bugs — but they�
 
 ### ⚡ GitHub Stats
 <div width ="100%" display="flex" align="center">
-  <picture>
+  <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kavicastelo&theme=radical&rank_icon=percentile&show_icons=true&show=prs_merged,reviews,prs_merged_percentage" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kavicastelo&rank_icon=percentile&show_icons=true&show=reviews,prs_merged,prs_merged_percentage" />
   <img width="50%" alt="github-stats" src="github-stats.svg" />
-  </picture>
+  </picture> -->
 
-  <img width="35%" align="right" alt ="gif" src ="https://github.com/kavicastelo/web_assets/blob/main/hacker-png.gif">
-</div>
-
-<p align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=kavicastelo&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=kavicastelo&date_format=M%20j%5B%2C%20Y%5D" />
   <img alt="streak" src="streak.svg" />
   </picture>
+
+  <img width="30%" align="right" alt ="gif" src ="https://github.com/kavicastelo/web_assets/blob/main/hacker-png.gif">
+</div>
+
+<p align="center">
+  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=85213722" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=85213722&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @kavicastelo" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=85213722&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
 </p>
 <p align="center">
   <picture>
