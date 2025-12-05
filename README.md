@@ -17,7 +17,7 @@ $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
 - 💻 **12+ hours of daily coding** – Focused on full-stack, AI, and cloud computing
 - 🔬 Passionate about **AI, DevOps, and Large-Scale System Design**
 - 🎯 Aiming to **achieve full financial independence** before **30** 🔥
-- 🏆 **LeetCode & GitHub Streaks** – **365+ day problem-solving streak** & **800+ day contribution streak**
+- 🏆 **LeetCode & GitHub Streaks** – **400+ day daily problem-solving streak** & **800+ day contribution streak**
 
 <i>Check out my [Digital Garden](https://kavicastelo.netlify.app/)</i> <br>
 
