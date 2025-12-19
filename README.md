@@ -19,8 +19,8 @@
   <tr>
     <td width="160" valign="top">
       <img
-        src="https://avatars.githubusercontent.com/u/85213722?v=4"
-        width="150"
+        src="https://kavicastelo-dev.netlify.app/_astro/kavi.eEEbdee__1BhEXB.avif"
+        width="120"
       />
     </td>
     <td valign="top">
