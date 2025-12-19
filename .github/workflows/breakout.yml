@@ -14,10 +14,10 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: generate SVG
-        uses: cyprieng/github-breakout@v1.0.0
+        uses: cyprieng/github-breakout@v1.2.3
         with:
           github_username: ${{ github.repository_owner }}
 
