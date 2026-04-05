@@ -25,7 +25,7 @@
     </td>
     <td valign="top">
       <strong>I'm Kavindu Kokila</strong>, a <strong>full-stack software engineer</strong> and
-      <strong>entrepreneur</strong> based in Sri Lanka with over 4 years of experience in building
+      <strong>entrepreneur</strong> based in Sri Lanka with over 5 years of experience in building
       <strong>scalable web applications</strong>, <strong>mobile solutions</strong>, and
       <strong>enterprise systems</strong>. As Co-Founder and Tech Lead at <strong>Talnova</strong>,
       I specialize in <strong>SaaS HR Tech</strong> innovations, including AI-powered recruitment
@@ -35,7 +35,7 @@
 </table>
 
 - **Expertise**: MEAN stack, Java-based systems, AI/ML integration, DevOps, and large-scale system design.
-- **Daily Focus**: 12+ hours coding, problem-solving on LeetCode (400+ day streak), and maintaining GitHub contributions (850+ day streak).
+- **Daily Focus**: 12+ hours coding, problem-solving on LeetCode (500+ day streak), and maintaining GitHub contributions (950+ day streak).
 - **Goal**: Achieve full financial independence by 30 through tech innovation and scalable products.
 - **Passions**: AI, DevOps, cloud computing, and mentoring aspiring developers.
 
@@ -88,17 +88,17 @@ Project highlights:
   
   *Tech: TypeScript, Algorithms, System Design*
   
-- [win-x86-cpp-console-games](https://github.com/kavicastelo/win-x86-cpp-console-games)(19 ⭐): Beginner-friendly C++ console games showcasing fundamentals like pointers and functions—ideal for learning low-level programming.
+- [win-x86-cpp-console-games](https://github.com/kavicastelo/win-x86-cpp-console-games)(21 ⭐): Beginner-friendly C++ console games showcasing fundamentals like pointers and functions—ideal for learning low-level programming.
 
   *Tech: C++, Console Apps, Educational*
+
+- [github-achievements-guide](https://github.com/kavicastelo/github-achievements-guide)(14 ⭐): Step-by-step guide to earning GitHub badges and achievements, with tips for developers.
+
+  *Tech: Documentation, GitHub Ecosystem*
 
 - [assembly-tutorial-x86](https://github.com/kavicastelo/assembly-tutorial-x86)(6 ⭐): Comprehensive guide to x86-64 assembly on Windows, from setup to basic programs and system calls.
 
   *Tech: Assembly (NASM), Low-Level Programming, Tutorials*
-  
-- [github-achievements-guide](https://github.com/kavicastelo/github-achievements-guide)(5 ⭐): Step-by-step guide to earning GitHub badges and achievements, with tips for developers.
-
-  *Tech: Documentation, GitHub Ecosystem*
 
 - [FlappyBirdAI](https://github.com/kavicastelo/FlappyBirdAI)(3 ⭐): AI-trained Flappy Bird clone using Deep Q-Learning (DQN) with Phaser.js and TensorFlow.js—demonstrates ML in game dev.
 
