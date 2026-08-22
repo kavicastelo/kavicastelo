@@ -35,11 +35,11 @@
 </table>
 
 - **Expertise**: MEAN stack, Java-based systems, AI/ML integration, DevOps, and large-scale system design.
-- **Daily Focus**: 12+ hours coding, problem-solving on LeetCode (500+ day streak), and maintaining GitHub contributions (950+ day streak).
+- **Daily Focus**: 12+ hours coding, problem-solving on LeetCode (650+ day streak), and maintaining GitHub contributions (110+ day streak).
 - **Goal**: Achieve full financial independence by 30 through tech innovation and scalable products.
 - **Passions**: AI, DevOps, cloud computing, and mentoring aspiring developers.
 
-Explore my [professional portfolio](https://kavindukokila.netlify.app) or [devfolio](https://kavicastelo-dev.netlify.app) for case studies on full-stack development, AI projects, and enterprise solutions. For collaborations in **full-stack development**, **AI-driven apps**, or **HR tech**, let's connect!
+Explore my [professional portfolio](https://kavindu.talnova.io) or [devfolio](https://kavicastelo-dev.netlify.app) for case studies on full-stack development, AI projects, and enterprise solutions. For collaborations in **full-stack development**, **AI-driven apps**, or **HR tech**, let's connect!
 
 $$Innovation = \int\limits_{idea}^{deployment} \frac{impact}{time} \times \Delta execution$$
 
@@ -84,15 +84,15 @@ As a **full-stack developer in Sri Lanka**, I've delivered high-impact solutions
 - **Game Development**: 2D games in JavaScript Canvas and Godot; console games in C++.
 
 Project highlights:
-- [advanced-cache-design](https://github.com/kavicastelo/advanced-cache-design)(33 ⭐): Advanced cache algorithms (LRU, LFU, ARC, TinyLFU) implemented in TypeScript for high-performance system design.
+- [advanced-cache-design](https://github.com/kavicastelo/advanced-cache-design)(34 ⭐): Advanced cache algorithms (LRU, LFU, ARC, TinyLFU) implemented in TypeScript for high-performance system design.
   
   *Tech: TypeScript, Algorithms, System Design*
   
-- [win-x86-cpp-console-games](https://github.com/kavicastelo/win-x86-cpp-console-games)(21 ⭐): Beginner-friendly C++ console games showcasing fundamentals like pointers and functions—ideal for learning low-level programming.
+- [win-x86-cpp-console-games](https://github.com/kavicastelo/win-x86-cpp-console-games)(24 ⭐): Beginner-friendly C++ console games showcasing fundamentals like pointers and functions—ideal for learning low-level programming.
 
   *Tech: C++, Console Apps, Educational*
 
-- [github-achievements-guide](https://github.com/kavicastelo/github-achievements-guide)(14 ⭐): Step-by-step guide to earning GitHub badges and achievements, with tips for developers.
+- [github-achievements-guide](https://github.com/kavicastelo/github-achievements-guide)(21 ⭐): Step-by-step guide to earning GitHub badges and achievements, with tips for developers.
 
   *Tech: Documentation, GitHub Ecosystem*
 
@@ -138,7 +138,7 @@ For more on **AI development**, **cloud architecture**, or **full-stack consulti
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=kavicastelo&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=kavicastelo&date_format=M%20j%5B%2C%20Y%5D" />
-    <img width="45%" alt="GitHub Streak: 800+ Days of Contributions" src="https://github-readme-streak-stats.herokuapp.com?user=kavicastelo&date_format=M%20j%5B%2C%20Y%5D" />
+    <img width="45%" alt="GitHub Streak: 1100+ Days of Contributions" src="https://github-readme-streak-stats.herokuapp.com?user=kavicastelo&date_format=M%20j%5B%2C%20Y%5D" />
   </picture>
 </div>
 
