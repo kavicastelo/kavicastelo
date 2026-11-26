@@ -185,7 +185,7 @@ I'm passionate about **tech innovation**, **scalable software development**, and
 
 - **LinkedIn**: [kavi-castelo](https://www.linkedin.com/in/kavi-castelo/)
 - **X (Twitter)**: [@kavicastelo](https://twitter.com/kavicastelo)
-- **Portfolio**: [kavindukokila.netlify.app](https://kavindukokila.netlify.app)
+- **Portfolio**: [kavindu.talnova.io](https://kavindu.talnova.io)
 - **Email**: Contact via LinkedIn for **hiring inquiries** or **project discussions**.
 
 Let's build scalable solutions together – whether it's **AI-powered tools**, **enterprise apps**, or **DevOps optimizations**!
@@ -233,7 +233,6 @@ Let's build scalable solutions together – whether it's **AI-powered tools**, *
 
 <div align="center">
   <p>Last Updated: <img src="https://img.shields.io/github/last-commit/kavicastelo/kavicastelo?label=Updated" alt="Last Profile Update"></p>
-  <p>Keywords: Full-stack developer Sri Lanka, AI engineer Colombo, DevOps expert, SaaS builder, Java MEAN stack specialist.</p>
 </div>
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kavicastelo)
